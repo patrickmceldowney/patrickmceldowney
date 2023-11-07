@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patrickmceldowney
 - I'm a full stack developer that builds large scale applications and APIs for big data intiatives  
-- I'm Seasoned in JavaScript, Python, C#, and Ruby
+- I'm Seasoned in JavaScript, Python, and C#
 - I enjoy all things backend/frontend and love to learn new concepts
 
 <!---
